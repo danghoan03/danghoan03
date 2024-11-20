@@ -287,7 +287,7 @@
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-4" value="sinh_vien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1152" y="384" width="54" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="_5iObF_Eb6BZiKlQGEwl-6" value="giang_vien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_5iObF_Eb6BZiKlQGEwl-6" value="giang_vien" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="12" y="384" width="54" height="96" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-8" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1" vertex="1" parent="1">
