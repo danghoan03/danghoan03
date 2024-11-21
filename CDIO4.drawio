@@ -297,7 +297,7 @@
           <mxGeometry x="516" y="433" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-11" value="Làm Bài Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="876" y="168" width="180" height="70" as="geometry" />
+          <mxGeometry x="876" y="156" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-17" value="Quản Lí Tài Khoản Cá Nhân" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="516" y="660" width="180" height="70" as="geometry" />
@@ -426,13 +426,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-48" value="Xem Điểm" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="888" y="302" width="180" height="70" as="geometry" />
+          <mxGeometry x="876" y="264" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-10" value="Quản Lí Bài Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="156" y="267" width="180" height="70" as="geometry" />
+          <mxGeometry x="168" y="264" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8-5f43Z7Ucurya8v0_M4-2" value="Báo Cáo Kết Quả" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="144" y="576" width="180" height="70" as="geometry" />
+          <mxGeometry x="156" y="576" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-2" value="Quản Lí Loại Bài Thi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708" y="24" width="180" height="70" as="geometry" />
@@ -456,7 +456,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-6" value="Tạo Bài Thi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="144" y="468" width="180" height="70" as="geometry" />
+          <mxGeometry x="156" y="468" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-7" value="Chấm Điểm Tự Động" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="660" width="180" height="70" as="geometry" />
@@ -513,7 +513,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-38" value="Quản Lí Điểm" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="144" y="372" width="180" height="70" as="geometry" />
+          <mxGeometry x="168" y="363" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;fontFamily=Verdana;fontSize=13;" edge="1" parent="1" source="lAFy43hQwBrcvS37Bs13-6" target="_5iObF_Eb6BZiKlQGEwl-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
