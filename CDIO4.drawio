@@ -294,7 +294,7 @@
           <mxGeometry x="573" y="-120" width="54" height="96" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-9" value="Đăng Nhập" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="516" y="516" width="180" height="70" as="geometry" />
+          <mxGeometry x="516" y="433" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-11" value="Làm Bài Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="876" y="168" width="180" height="70" as="geometry" />
@@ -307,9 +307,6 @@
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-22" value="Phân Quyền" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="900" y="24" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="_5iObF_Eb6BZiKlQGEwl-26" value="Đăng Ký" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="516" y="288" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;fontSize=13;" parent="1" source="_5iObF_Eb6BZiKlQGEwl-6" target="_5iObF_Eb6BZiKlQGEwl-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -437,9 +434,6 @@
         <mxCell id="8-5f43Z7Ucurya8v0_M4-2" value="Báo Cáo Kết Quả" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="576" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lAFy43hQwBrcvS37Bs13-1" value="Quản Lí Lớp Học" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="24" width="180" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-2" value="Quản Lí Loại Bài Thi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708" y="24" width="180" height="70" as="geometry" />
         </mxCell>
@@ -496,7 +490,7 @@
             <mxPoint x="402" y="36" as="sourcePoint" />
             <mxPoint x="585" y="-76" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="444" y="156" />
+              <mxPoint x="396" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -505,7 +499,7 @@
             <mxPoint x="78" y="428" as="sourcePoint" />
             <mxPoint x="521" y="179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="408" y="276" />
+              <mxPoint x="432" y="264" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -514,7 +508,7 @@
             <mxPoint x="348" y="396" as="sourcePoint" />
             <mxPoint x="585" y="-76" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="324" />
+              <mxPoint x="456" y="312" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -526,7 +520,7 @@
             <mxPoint x="618" y="144" as="sourcePoint" />
             <mxPoint x="612" y="-60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="456" />
+              <mxPoint x="480" y="348" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -535,12 +529,18 @@
             <mxPoint x="618" y="144" as="sourcePoint" />
             <mxPoint x="612" y="-60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="468" y="492" />
+              <mxPoint x="516" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8-5f43Z7Ucurya8v0_M4-1" value="Quản Lí Môn Học" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="516" y="132" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lAFy43hQwBrcvS37Bs13-1" value="Quản Lí Lớp Học" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="24" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_5iObF_Eb6BZiKlQGEwl-26" value="Đăng Ký" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="516" y="228" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
