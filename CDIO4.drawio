@@ -455,6 +455,9 @@
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-10" value="Quản Lí Bài Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="144" y="456" width="180" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="8-5f43Z7Ucurya8v0_M4-1" value="Quản Lí Danh Sách Bài Thi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="636" y="48" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
