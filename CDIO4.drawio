@@ -366,7 +366,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-38" value="Quản Lí Điểm" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="264" y="432" width="180" height="70" as="geometry" />
+          <mxGeometry x="228" y="372" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_5iObF_Eb6BZiKlQGEwl-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontSize=13;" parent="1" source="_5iObF_Eb6BZiKlQGEwl-6" target="_5iObF_Eb6BZiKlQGEwl-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
