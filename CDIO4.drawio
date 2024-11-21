@@ -458,9 +458,6 @@
         <mxCell id="lAFy43hQwBrcvS37Bs13-6" value="Tạo Bài Thi" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="468" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lAFy43hQwBrcvS37Bs13-7" value="Chấm Điểm Tự Động" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="660" width="180" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lAFy43hQwBrcvS37Bs13-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Verdana;fontSize=13;" edge="1" parent="1" source="_5iObF_Eb6BZiKlQGEwl-6" target="lAFy43hQwBrcvS37Bs13-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="78" y="428" as="sourcePoint" />
